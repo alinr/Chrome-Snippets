@@ -1,7 +1,10 @@
 console.clear();
-console.log('--------------------');
+console.log('-------------------------------');
 console.log('%cLinks on page%c: ' + $$('a').length, 'color:green', 'color:black');
-console.log('--------------------');
+console.log('');
+console.log('You want more Chrome Snippets?');
+console.log('bit.ly/chrome-snippets');
+console.log('-------------------------------');
 console.log('');
 
 
